@@ -15,7 +15,7 @@ A modern, responsive landing page built using **ReactJS** and **Vite**. Designed
 ## 🛠️ Tech Stack
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
-- [CSS Modules / Tailwind / SCSS] \\
+- [CSS Modules / Tailwind / SCSS]
 - [React Router]
 
 
