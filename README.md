@@ -2,7 +2,7 @@
 A modern, responsive landing page built using **ReactJS** and **Vite**. Designed for speed and simplicity, this project is perfect for portfolios, product launches, or startup promotions.
 
 ## 📸 Preview
-![Screenshot 2025-04-05 135258](https://github.com/user-attachments/assets/8d6bce01-b4b0-4b34-9de9-7662f248eb5b)
+![Screenshot 2025-04-06 224022](https://github.com/user-attachments/assets/ef2dc376-0fce-4236-8dcf-64a1747cdca0)
 
 ## 🔥 Features
 - ⚡️ Fast build with Vite
